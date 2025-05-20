@@ -137,5 +137,5 @@ class Game:
         print(str)
 
 if __name__ == "__main__":
-    game = Game(10, 10)
+    game = Game(4, 4)
     game.print()  # Affiche la grille initiale
